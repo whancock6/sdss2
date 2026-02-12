@@ -23,7 +23,7 @@ repository               : "whancock6.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wales cottage.jpeg"
+  avatar           : "/images/Welsh_dragon_red_banner.png"
   name             : "The Saint David's Society of Savannah"
   pronouns         : # example: "she/her"  
   bio              : "Welsh Heritage Society"
