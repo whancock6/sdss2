@@ -5,4 +5,5 @@ permalink: /members/
 author_profile: true
 ---
 
-Test text
+<center>**Founding Members**</center>
+
