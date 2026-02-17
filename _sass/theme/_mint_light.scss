@@ -2,7 +2,7 @@
   MINT THEME - LIGHT VERSION
   ========================================================================== */
 /* Color codes used for the theme */
-$primary-color              : #11999e;
+$primary-color              : #003300;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
 $light-primary-color        : mix(#fff, $primary-color, 50%);
@@ -15,7 +15,7 @@ $text-muted                : #5c6d6a;
 $link                      : #11999e;
 $link-dark                 : mix(#000, $link, 25%);
 $link-light                : mix(#fff, $link, 25%);
-$footer                    : #30e3ca;
+$footer                    : #003300;
 $border                    : mix(#fff, #40514e, 75%);
 $border-dark               : mix(#fff, #40514e, 60%);
 
