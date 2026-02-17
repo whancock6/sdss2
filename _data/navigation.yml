@@ -11,23 +11,23 @@ main:
   - title: "Heritage"
     url: /heritage/
 
-  - title: "Our Members"
+  - title: "Members"
     url: /members/    
 
-  - title: "Education"
-    url: /teaching/    
-    
-  - title: "Portfolio"
+  - title: "Officers"
     url: /portfolio/
-        
-  - title: "Blog Posts"
+    
+  - title: "Gallery"
+    url: /teaching/    
+            
+  - title: "Blog"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+ # - title: "CV"
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+  #  url: /markdown/
