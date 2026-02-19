@@ -1,11 +1,17 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Work In Progress Notice'
+date: 2026-02-18
+permalink: /posts/2026/02/blog-post-1/
 tags:
-  - cool posts
+  - Tests
   - category1
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+Hey! It's Will!
+
+I just made a blog post and want to see if the site updates and handles it correctly.
+
+If you're seeing this, you're probably my wife, a Missroon, or an Officer of the Society.
+
+If you're none of those things... How did you get here?
