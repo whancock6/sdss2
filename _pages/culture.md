@@ -79,5 +79,6 @@ There he chooses a hill-fort as the site for his royal retreat and attempts to b
 A young boy, Emrys (Ambrosius Aurelianus), revels to Vortigern the reason for the collapsing towers: a hidden pool containing two dragons, one red and one white, representing the Britons and the Saxons specifically, buried beneath the foundation. 
 He explains how the White Dragon of the Saxons, though winning the battle at present, would soon be defeated by the Welsh Red Dragon. 
 After Vortigern's downfall, the fort was given to High-King Ambrosius Aurelianus, known in Welsh as Emrys Wledig, hence the fort's name.
+<center><img src="https://whancock6.github.io/sdss2/images/dragons-fighting.png" style="width: 250px;"></center>
 
 [Read more about *Historia Brittonum*](https://en.wikipedia.org/wiki/Historia_Brittonum)
