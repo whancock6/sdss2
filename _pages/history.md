@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /welsh-history/
 ---
-
+[&larr; return to Learning Center](https://whancock6.github.io/sdss2/learn/)
 ## Prehistoric Wales 
 Prehistoric Wales in terms of human settlements covers the period from about 230,000 years ago, the date attributed to the earliest human remains found in what is now Wales, to the year 48 AD when the Roman armybegan a military campaign against one of the Welsh tribes. 
 Traditionally, historians have believed that successive waves of immigrants brought different cultures into the area, largely replacing the previous inhabitants, with the last wave of immigrants being the Celts. 
