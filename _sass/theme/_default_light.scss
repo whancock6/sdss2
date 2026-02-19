@@ -2,7 +2,7 @@
     DEFAULT THEME - LIGHT VERSION
     ========================================================================== */
 /* Color codes used for the theme */
-$primary-color              : #003300;/*#2f7f93;*/
+$primary-color              : #006600;/*#2f7f93;*/
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
@@ -30,8 +30,8 @@ $sidebar-screen-min-width   : 1024px;
 :root {
     --global-base-color                 : #{$primary-color};
     --global-bg-color                   : #fff;
-    --global-footer-bg-color            : #003300; /*#f2f3f3;*/
-    --global-border-color               : #003300; /*{$lighter-gray};*/
+    --global-footer-bg-color            : #006600; /*#f2f3f3;*/
+    --global-border-color               : #006600; /*{$lighter-gray};*/
     --global-dark-border-color          : #003300; /*#bdc1c4;*/
     --global-code-background-color      : #fafafa;
     --global-code-text-color            : #{$darker-gray};
