@@ -21,3 +21,76 @@ In Welsh culture, an *eisteddfod* is an institution and festival with several ra
 The Chairing of the Bard (*Cadeirio'r Bardd*) is one of the most important events in the Welsh eisteddfod tradition. The poet who has written the best *awdl*, or poem in strict meter, based on a title chosen by the judges is awarded the bardic chair - literally. 
 
 Here, we use the term to describe the area of our website dedicated to poems, prayers, and songs of import to our members and to our society.
+
+## Gorsedd Prayer
+*Dro Dduw dy Nawdd;*  
+*Ag yn nawdd, nerth;*  
+*Ag yn nerth, Deall;*  
+*Ag yn Neall, Gwybod;*  
+*Ac yngwybod, gwybod y cyfiawn;*  
+*Ag yngwybod yn cyfiawn, ei garu;*  
+*Ag o garu, caru pob hanfod;*  
+*Ag ymhob Hanfod, caru Duw.*  
+
+*Duw a phob Daioni.*
+
+*Grant, O God, thy protection;*  
+*And in protection, strength;*  
+*And in strength, understanding;*  
+*And in understanding, knowledge;*  
+*And in knowledge, the knowledge of justice;*  
+*And in the knowledge of justice, the love of it;*  
+*And in that love, the love of all existences;*  
+*And in the love of all existences, the love of God;*  
+
+*God and all goodness.*  
+### *Attributed to Iolo Morganwg, 1792 summer solstace*
+***
+## Breath of Summer
+<center>Creator God<br>
+who breathed this world into being,<br>
+who is discernible within<br>
+the harmony of nature,<br>
+the perfection of a butterfly's wing,<br>
+the grandeur of a mountain range,<br>
+the soaring eagle and humming bird,<br>
+thank you for this world<br>
+which you have created.<br>
+Thank you for summer sun,<br>
+which reminds us<br>
+that your creative breath<br>
+is still alive and active.<br>
+Thank you for the warmth of your love,<br>
+sustaining this world,<br>
+your garden.</center>
+### *Christian prayer*
+***
+## Watchman, Tell Us of the Night
+<center>
+<p>Watchman! Tell us of the night,<br>
+What its signs of promise are.<br>
+Trav’ler! O’er yon mountain’s height<br>
+See that glory beaming star!<br>
+Watchman, does its beauteous ray<br>
+Aught of hope or joy foretell?<br>
+Trav’ler! Yes; it brings the day,<br>
+Promis’d day of Israel.<br>
+<br>
+Watchman! Tell us of the night,<br>
+Higher yet that star ascends.<br>
+Trav’ler! Blessedness and light,<br>
+Peace and truth its course portends.<br>
+Watchman, will its beams alone<br>
+Gild the spot that gave them birth?<br>
+Trav’ler! Ages are its own;<br>
+See! It bursts o’er all the earth!<br>
+<br>
+Watchman! Tell us of the night,<br>
+For the morning seems to dawn.<br>
+Trav’ler! Darkness takes its flight,<br>
+Doubt and terror are withdrawn!<br>
+Watchman! Let your wand’ring cease,<br>
+Go now to your quiet home.<br>
+Trav’ler! Lo, the Prince of Peace,<br>
+Lo, the Son of God has come!</p>
+</center>
