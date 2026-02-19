@@ -23,29 +23,32 @@ The Chairing of the Bard (*Cadeirio'r Bardd*) is one of the most important event
 Here, we use the term to describe the area of our website dedicated to poems, prayers, and songs of import to our members and to our society.
 
 ## Gorsedd Prayer
-*Dro Dduw dy Nawdd;*  
-*Ag yn nawdd, nerth;*  
-*Ag yn nerth, Deall;*  
-*Ag yn Neall, Gwybod;*  
-*Ac yngwybod, gwybod y cyfiawn;*  
-*Ag yngwybod yn cyfiawn, ei garu;*  
-*Ag o garu, caru pob hanfod;*  
-*Ag ymhob Hanfod, caru Duw.*  
+<center><em>
+Dro Dduw dy Nawdd;<br>
+Ag yn nawdd, nerth;<br>
+Ag yn nerth, Deall;<br>
+Ag yn Neall, Gwybod;<br>
+Ac yngwybod, gwybod y cyfiawn;<br>
+Ag yngwybod yn cyfiawn, ei garu;<br>
+Ag o garu, caru pob hanfod;<br>
+Ag ymhob Hanfod, caru Duw.<br>
+<br>
+Duw a phob Daioni.<br>
+<br>
+<br>
+Grant, O God, thy protection;<br>
+And in protection, strength;<br>
+And in strength, understanding;<br>
+And in understanding, knowledge;<br>
+And in knowledge, the knowledge of justice;<br>
+And in the knowledge of justice, the love of it;<br>
+And in that love, the love of all existences;<br>
+And in the love of all existences, the love of God;<br>
+<br>
+God and all goodness.<br>
+</em></center>
+<center><strong><em>Attributed to Iolo Morganwg, 1792 summer solstace</em></strong></center>
 
-*Duw a phob Daioni.*
-
-*Grant, O God, thy protection;*  
-*And in protection, strength;*  
-*And in strength, understanding;*  
-*And in understanding, knowledge;*  
-*And in knowledge, the knowledge of justice;*  
-*And in the knowledge of justice, the love of it;*  
-*And in that love, the love of all existences;*  
-*And in the love of all existences, the love of God;*  
-
-*God and all goodness.*  
-### *Attributed to Iolo Morganwg, 1792 summer solstace*
-***
 ## Breath of Summer
 <center>Creator God<br>
 who breathed this world into being,<br>
@@ -62,12 +65,12 @@ that your creative breath<br>
 is still alive and active.<br>
 Thank you for the warmth of your love,<br>
 sustaining this world,<br>
-your garden.</center>
-### *Christian prayer*
-***
+your garden.<br>
+<strong><em>Christian prayer</em></strong></center>
+
 ## Watchman, Tell Us of the Night
 <center>
-<p>Watchman! Tell us of the night,<br>
+Watchman! Tell us of the night,<br>
 What its signs of promise are.<br>
 Trav’ler! O’er yon mountain’s height<br>
 See that glory beaming star!<br>
@@ -92,5 +95,7 @@ Doubt and terror are withdrawn!<br>
 Watchman! Let your wand’ring cease,<br>
 Go now to your quiet home.<br>
 Trav’ler! Lo, the Prince of Peace,<br>
-Lo, the Son of God has come!</p>
+Lo, the Son of God has come!
+<strong><em>John Bowring, 1825</em></strong>
+
 </center>
