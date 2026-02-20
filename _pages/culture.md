@@ -6,6 +6,9 @@ redirect_from:
   - /welsh-culture/
 ---
 [&larr; return to Learning Center](https://whancock6.github.io/sdss2/learn/)
+
+Here we will discuss some basic elements of Welsh culture, mythology, and symbolism.
+
 ## Welsh Language
 Welsh (*Cymraeg* or *y Gymraeg*) is a Celtic language of the Brittonic subgroup that is native to the Welsh people. 
 Welsh is spoken natively in Wales by about 18% of the population, by some in England, and in Y Wladfa (the Welsh colony in Chubut Province, Argentina).
