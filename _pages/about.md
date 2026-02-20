@@ -6,12 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About Us
-=====
-![test image](images/dragon.png)
+## Home
 
-Annual Events
-======
+Welcome to the website of the Saint David's Society of Savannah - celebrating Welsh herritage in Savannah since 2013!
+
+\>insert more 'about us' information here
+## Annual Events
+
+\> create links to events
+
+\> add description of events
+
 Tudor Ball
 
 Oyster Roast
