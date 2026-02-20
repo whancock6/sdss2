@@ -32,27 +32,27 @@ A fifth dialect is Patagonian Welsh, which has developed since the start of Y Wl
 ### Flags
 #### National Flags
 The Flag of Wales, also known as *Y Ddraig Goch* ('the red dragon'), in official use since 1959:
-<center><img src="https://whancock6.github.io/sdss2/images/flags/national.png" style="width:300px; border: 3px solid #555"></center>
+<center><img src="https://whancock6.github.io/sdss2/images/flags/national.png" style="width:300px; border: 3px solid #555"></center><br>
 
 A historical flag used from 1953 until 1959, depicting the Royal Badge of Wales after its augmentation of honour:
-<center><img src="https://whancock6.github.io/sdss2/images/flags/national-historic-1.png" style="width:300px; border: 3px solid #555"></center>
+<center><img src="https://whancock6.github.io/sdss2/images/flags/national-historic-1.png" style="width:300px; border: 3px solid #555"></center><br>
 
 A historical flag used from 1807 until 1953:
 <center><img src="https://whancock6.github.io/sdss2/images/flags/national-historic-2.png" style="width:300px; border: 3px solid #555"></center>
 
 #### Royal Standards
 The Royal Standard, in use since 1837 in England, Wales and Northern Ireland:
-<center><img src="https://whancock6.github.io/sdss2/images/flags/royal-king.png" style="width:300px; border: 3px solid #555"></center>
+<center><img src="https://whancock6.github.io/sdss2/images/flags/royal-king.png" style="width:300px; border: 3px solid #555"></center><br>
 
 The Standard of the Prince of Wales, used only in Wales:
-<center><img src="https://whancock6.github.io/sdss2/images/flags/royal-prince.png" style="width:150px; border: 3px solid #555"></center>
+<center><img src="https://whancock6.github.io/sdss2/images/flags/royal-prince.png" style="width:150px; border: 3px solid #555"></center><br>
 
 The banner of the princely House of Aberffraw and the Kingdom of Gwynedd famously used by Llywelyn the Great, Llywelyn ap Gruffudd and Owain Lawgoch. The Prince of Wales uses a version of this flag today, emblazoned with a Crown on a green shield (seen above).
 <center><img src="https://whancock6.github.io/sdss2/images/flags/royal-prince-historic.png" style="width:150px; border: 3px solid #555"></center>
 
 #### Religious Flags
 The flag of Saint David:
-<center><img src="https://whancock6.github.io/sdss2/images/flags/david.png" style="width:300px; border: 3px solid #555"></center>
+<center><img src="https://whancock6.github.io/sdss2/images/flags/david.png" style="width:300px; border: 3px solid #555"></center><br>
 
 The flag of the Church in Wales:
 
@@ -80,8 +80,8 @@ The tale is taken up in the Historia Brittonum, written by Nennius.
 In chapters 40–42 there is a narrative in which the tyrant Vortigern flees into Wales to escape the Anglo-Saxon invaders. 
 There he chooses a hill-fort as the site for his royal retreat and attempts to build a citadel, but the structure collapses repeatedly. 
 A young boy, Emrys (Ambrosius Aurelianus), revels to Vortigern the reason for the collapsing towers: a hidden pool containing two dragons, one red and one white, representing the Britons and the Saxons specifically, buried beneath the foundation. 
+<center><img src="https://whancock6.github.io/sdss2/images/dragons-fighting.png" style="width: 500px;"></center>
 He explains how the White Dragon of the Saxons, though winning the battle at present, would soon be defeated by the Welsh Red Dragon. 
 After Vortigern's downfall, the fort was given to High-King Ambrosius Aurelianus, known in Welsh as Emrys Wledig, hence the fort's name.
-<center><img src="https://whancock6.github.io/sdss2/images/dragons-fighting.png" style="width: 500px;"></center>
 
 [Read more about *Historia Brittonum*](https://en.wikipedia.org/wiki/Historia_Brittonum)
