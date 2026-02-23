@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "The Saint David's Society of Savannah"
+title                    : "Cymdeithas Dewi Sant o Savannah"
 title_separator          : "-"
 name                     : &name "The Saint David's Society of Savannah"
-description              : &description "Celebrating Welsh heritage in Savannah since 1999"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Celebrating Welsh heritage in Savannah since 2013"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://whancock6.github.io/sdss2 # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "sds-seal.png"
   name             : "The Saint David's Society of Savannah"
   pronouns         : # example: "she/her"  
-  bio              : "Celebrating Welsh Heritage since 2013"
+  bio              : "<em>Celebrating, preserving, and promoting Welsh Heritage in Coastal Georgia since 2013</em>"
   location         : "Savannah, Georgia"
-  employer         : #"Red Brick University"
+  employer         : #""
   uri              : # URL
   email            : "Contact@StDavidSavannah.com" 
 
