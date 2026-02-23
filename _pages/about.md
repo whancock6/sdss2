@@ -6,21 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Home
 
-Welcome to the website of the Saint David's Society of Savannah - celebrating Welsh herritage in Savannah since 2013!
+Welcome to the website of the Saint David's Society of Savannah - celebrating, preserving, and promoting ﻿Welsh cultural heritage in Welsh herritage in Savannah since 2013!
 
-\>insert more 'about us' information here
 ## Annual Events
 
-\> create links to events
+The Society hosts a number of annual events open to our members and their guests:
 
-\> add description of events
+### The Tudor Ball
+\> description of event
+\> Link to history of the battle of bosworth field
 
-Tudor Ball
+### Oyster Roast
+\> description of event
 
-Oyster Roast
-
-Annual Meeting
-
+### Annual Meeting
+\> description of event
 
