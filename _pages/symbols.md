@@ -5,10 +5,10 @@ author_profile: true
 redirect_from: 
   - /society-symbols/
 ---
-[&larr; return to Learning Center](https://whancock6.github.io/sdss2/learn/)
+[&larr; return to Learning Center](../learn/)
 
 <center><h2>The Great Seal of the Society</h2></center>
-<center><img src="https://whancock6.github.io/sdss2/images/sds-seal.png" style="width: 300px;"></center>
+<center><img src="../images/sds-seal.png" style="width: 300px;"></center>
 
 The Seal reveals a lot about the character of St. David (seen in the oval image); 
 he has a halo to represent his sainthood and possession of the Holy Spirit, and a crown of crosses to show that Christ ruled his life as his King. 
@@ -31,7 +31,7 @@ It has Celtic knotwork to show it emanates from a creative, vibrant, art-loving 
 the afore-described themes circumscribed in the inner sanctum of the two circles (heaven & earth) of the Society's Great Seal.
 
 <center><h2>The Membership Medal</h2></center>
-<center><img src="https://whancock6.github.io/sdss2/images/placeholder.png" style="width: 300px;"></center>
+<center><img src="../images/placeholder.png" style="width: 300px;"></center>
 
 The Membership medal shows a Red Dragon representing Wales adorned by gold artwork to represent royalty of the Tudor Kings and the ancient Cymric jewelers, the envy of the world. The dragon sits on
 the ocean with waves (in bluish-green) and spans the sky as well, covering the whole globe - symbolic of the diaspora of the Welsh to all nations of Earth. 
@@ -39,4 +39,4 @@ the ocean with waves (in bluish-green) and spans the sky as well, covering the w
 The date, name and Celtic knots are the same as in the Great Seal of the Society, and there is a message (in Weish) inscribed in the lapping waves.
 
 <center><h2>The Membership Medal Ribbons</h2></center>
-<center><img src="https://whancock6.github.io/sdss2/images/placeholder.png" style="width: 300px;"></center>
+<center><img src="../images/placeholder.png" style="width: 300px;"></center>
