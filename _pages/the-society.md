@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /society/
 ---
-[&larr; return to Learning Center](https://whancock6.github.io/sdss2/learn/)
+[&larr; return to Learning Center](../learn/)
 
 The Saint David's Society of Savannah was founded on August 22, 2013 - the anniversary of the Battle of Bosworth Field, when the Welsh took over the English throne.
 
